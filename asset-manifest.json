@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/movie-app/static/css/main.f55d7911.css",
-    "main.js": "/movie-app/static/js/main.c6cde8f1.js",
-    "static/js/453.0b30a3d5.chunk.js": "/movie-app/static/js/453.0b30a3d5.chunk.js",
-    "static/media/fa-solid-900.ttf": "/movie-app/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/movie-app/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/movie-app/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/movie-app/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/movie-app/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/movie-app/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/movie-app/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/movie-app/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/movie-app/index.html",
-    "main.f55d7911.css.map": "/movie-app/static/css/main.f55d7911.css.map",
-    "main.c6cde8f1.js.map": "/movie-app/static/js/main.c6cde8f1.js.map",
-    "453.0b30a3d5.chunk.js.map": "/movie-app/static/js/453.0b30a3d5.chunk.js.map"
+    "main.css": "/Helana-99/movie-app/static/css/main.ee2323b1.css",
+    "main.js": "/Helana-99/movie-app/static/js/main.d0f1b4a0.js",
+    "static/js/453.0b30a3d5.chunk.js": "/Helana-99/movie-app/static/js/453.0b30a3d5.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Helana-99/movie-app/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Helana-99/movie-app/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Helana-99/movie-app/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Helana-99/movie-app/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Helana-99/movie-app/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Helana-99/movie-app/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Helana-99/movie-app/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Helana-99/movie-app/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Helana-99/movie-app/index.html",
+    "main.ee2323b1.css.map": "/Helana-99/movie-app/static/css/main.ee2323b1.css.map",
+    "main.d0f1b4a0.js.map": "/Helana-99/movie-app/static/js/main.d0f1b4a0.js.map",
+    "453.0b30a3d5.chunk.js.map": "/Helana-99/movie-app/static/js/453.0b30a3d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f55d7911.css",
-    "static/js/main.c6cde8f1.js"
+    "static/css/main.ee2323b1.css",
+    "static/js/main.d0f1b4a0.js"
   ]
 }
